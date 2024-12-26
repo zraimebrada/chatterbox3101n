@@ -1,4 +1,4 @@
-Link to the Deployed website via Firebase Google
+Link of the Deployed website via Firebase Google
 https://chatterbox-b72ab.web.app/
 
 # Getting Started with Create React App
